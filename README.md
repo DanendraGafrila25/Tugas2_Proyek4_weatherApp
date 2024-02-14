@@ -3,9 +3,12 @@
 
 ![emu](https://github.com/DanendraGafrila25/Tugas2_Proyek4_weatherApp/assets/123918948/237dabfe-d213-4d4d-ab38-4d8b7055696b)
 
+![Screenshot 2024-02-14 142645](https://github.com/DanendraGafrila25/Tugas2_Proyek4_weatherApp/assets/123918948/c5066bba-42ac-411d-9b41-0cba97c66f24)
+
 # weather_app
 
 A new Flutter project.
+
 
 ## Getting Started
 
