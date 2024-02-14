@@ -1,3 +1,6 @@
+
+![DanendraG](https://github.com/DanendraGafrila25/Tugas2_Proyek4_weatherApp/assets/123918948/a97ce0b3-69c9-47b0-a6dd-8c02580fda32)
+
 # weather_app
 
 A new Flutter project.
